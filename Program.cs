@@ -20,6 +20,8 @@ namespace Mi_Primera_Prueba
             Console.WriteLine("Hola");
             //quinto cambio
             Console.WriteLine("Hola");
+            //sexto cambio
+            Console.WriteLine("Hola");
         }
     }
 }
