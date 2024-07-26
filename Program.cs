@@ -21,6 +21,7 @@ namespace Mi_Primera_Prueba
             //quinto cambio
             Console.WriteLine("Hola");
             //sexto cambio
+            Console.WriteLine("te amo")
           
         }
     }
