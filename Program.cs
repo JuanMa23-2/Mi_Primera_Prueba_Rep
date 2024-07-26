@@ -12,6 +12,8 @@ namespace Mi_Primera_Prueba
         {
             //primer cambio
             Console.WriteLine("Hola");
+            //segundo cambio
+            Console.WriteLine("Hola");
         }
     }
 }
