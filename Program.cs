@@ -10,6 +10,8 @@ namespace Mi_Primera_Prueba
     {
         static void Main(string[] args)
         {
+            //primer cambio
+            Console.WriteLine("Hola");
         }
     }
 }
